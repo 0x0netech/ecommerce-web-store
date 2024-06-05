@@ -1,0 +1,22 @@
+// {
+//     "preset":["@babel/preset-react (https://github.com/babel/babel/tree/main/packages/babel-preset-react)" ]
+// }
+
+//  {
+//      "presets": ["next/babel",["@babel/preset-react"]]
+//     // "presets": ["@babel/preset-react"]
+
+
+//    }
+//    {
+//     "presets": [],
+//     "plugins": []
+//   }  
+  // {
+  //   "presets": ["@babel/preset-react"]
+  // }
+  {
+    "presets": ["next/babel", "@babel/preset-react"],
+    "plugins": []
+  }
+  
